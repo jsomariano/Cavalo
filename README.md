@@ -1,4 +1,4 @@
-# 'Cavalo' Command line
+# 🐎 'Cavalo' Command line
 
 <div style="text-align: center">
     <img src="./cavalo.jpg" height="300"/>
@@ -6,7 +6,7 @@
 
 ---
 
-> Cavalo!
+> 🐴 Cavalo! 🐴
 
 Play famous meme "Cavalo" sound.
 
