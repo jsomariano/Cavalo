@@ -5,9 +5,9 @@ const path = require('path');
 const fs = require('fs');
 
 const mainPath = path.dirname(fs.realpathSync(__filename));
-const soundPath = path.join(mainPath, './omaewa');
+const soundPath = path.join(mainPath, './cavalo');
 
-const omaewa = function (){
+const cavalo = function (){
     const linuxcmd = 'paplay '+soundPath+'.ogg';
     const windowscmd = path.join(mainPath, './forWindows.vbs')+' '+soundPath+'.mp3';
     const maccmd = 'afplay '+soundPath+'.mp3';
@@ -31,8 +31,8 @@ const omaewa = function (){
     }
 }
 
-module.exports = omaewa;
+module.exports = cavalo;
 
 if (!module.parent) {
-    omaewa();
+    cavalo();
 }

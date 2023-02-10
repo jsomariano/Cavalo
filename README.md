@@ -1,12 +1,14 @@
-# 'Omae wa' Command Line Sound
+# 'Cavalo' Command line
 
 <div style="text-align: center">
-    <img src="./omaewa.png" height="300"/>
+    <img src="./cavalo.jpg" height="300"/>
 </div>
 
-> Omae wa mou shindeiru! Nani!??
+---
 
-Play famous "Omae wa" sound.
+> Cavalo!
+
+Play famous meme "Cavalo" sound.
 
 ## Compatibility
 
@@ -17,20 +19,20 @@ Play famous "Omae wa" sound.
 ## Installing
 Install globally:
 
-    npm install -g omaewa
+    npm install -g cavalo
 
 ## Running
 Run command:
 
-    omaewa
+    cavalo
 
 Or import in NodeJS script:
 
-    import omaewa from 'omaewa';
+    import cavalo from 'cavalo';
 
-    omaewa();
+    cavalo();
 
 ## See also
-
+ - [Omaewa](https://github.com/BrOrlandi/omaewa)
  - [Faustão Errou](https://github.com/BrOrlandi/faustao-errou/)
  - [X-Files](https://github.com/BrOrlandi/xfiles/)

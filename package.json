@@ -1,22 +1,22 @@
 {
-  "name": "omaewa",
+  "name": "cavalo",
   "version": "1.0.1",
-  "description": "Omae wa mou shindeiru! Nani!??",
+  "description": "Cavalo!",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/BrOrlandi/omaewa.git"
+    "url": "git+ssh://git@github.com/jsomariano/Cavalo.git"
   },
-  "author": "Bruno Orlandi <brorlandi@gmail.com>",
+  "author": "Junior Santos <junior_santos2100@outlook.com>",
   "license": "MIT",
   "bin": {
-    "omaewa": "./index.js"
+    "cavalo": "./index.js"
   },
   "bugs": {
-    "url": "https://github.com/BrOrlandi/omaewa/issues"
+    "url": "https://github.com/jsomariano/Cavalo/issues"
   },
-  "homepage": "https://github.com/BrOrlandi/omaewa#readme"
+  "homepage": "https://github.com/jsomariano/Cavalo#readme"
 }
