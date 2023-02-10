@@ -34,5 +34,6 @@ Or import in NodeJS script:
 
 ## See also
  - [Omaewa](https://github.com/BrOrlandi/omaewa)
+ - [meiodia](https://github.com/douglasjunior/meiodia)
  - [Faustão Errou](https://github.com/BrOrlandi/faustao-errou/)
  - [X-Files](https://github.com/BrOrlandi/xfiles/)
