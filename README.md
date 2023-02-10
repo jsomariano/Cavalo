@@ -24,7 +24,7 @@ Install globally:
 ## Running
 Run command:
 
-    cavalo
+    npx cavalo
 
 Or import in NodeJS script:
 
